@@ -1,7 +1,11 @@
 # restful-booker-tests
 This repository contains some tests for PartialUpdateBooking , DeleteBooking and GetBookingIds endpoints from restful-booker API.
 
+API Documentation
 https://restful-booker.herokuapp.com/apidoc/index.html
+
+TestCases
+https://github.com/saulo-valdivia-v/restful-booker-tests/blob/main/docs/BookingTestCases.pdf
    
 ### Pre-Requisites
 1. JDK 18
