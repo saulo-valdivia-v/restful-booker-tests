@@ -1,0 +1,35 @@
+[
+	{
+		"firstname": "James_Test",
+		"lastname": "Sunderland_Test",
+		"totalprice": 111,
+		"depositpaid": true,
+		"bookingdates": {
+			"checkin" : "2022-01-01",
+			"checkout" : "2022-02-01"
+		},
+		"additionalneeds": "Breakfast"
+	},
+	{
+		"firstname": "Harry_Test",
+		"lastname": "Mason_Test",
+		"totalprice": 222,
+		"depositpaid": true,
+		"bookingdates": {
+			"checkin" : "2022-01-10",
+			"checkout" : "2022-02-11"
+		},
+		"additionalneeds": "Dinner"
+	},
+	{
+		"firstname": "Harry_Test",
+		"lastname": "Mason_Test",
+		"totalprice": 222,
+		"depositpaid": true,
+		"bookingdates": {
+			"checkin" : "2022-01-01",
+			"checkout" : "2022-02-01"
+		},
+		"additionalneeds": "Breakfast"
+	}
+]
